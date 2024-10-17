@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yanglong</h1>
-- 💬 Ask me about: ## data
+- 💬 Ask me about:  data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
